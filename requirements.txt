@@ -1,0 +1,4 @@
+bcrypt
+matplotlib
+pyperclip
+requests
